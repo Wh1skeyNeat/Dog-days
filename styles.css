@@ -37,4 +37,5 @@ img {
 
 .category-videos {
  display: flex; 
+ overflow-x:auto; 
 }
