@@ -31,7 +31,9 @@ h1 {
 p {
  font-size: 20px
 }
-
+img {
+    height: 200px;
+}
 .category-videos {
  display: flex; 
  overflow-x:auto; 
