@@ -34,3 +34,7 @@ p {
 img {
     height: 200px;
 }
+
+.category-videos {
+ display: flex; 
+}
