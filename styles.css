@@ -31,9 +31,6 @@ h1 {
 p {
  font-size: 20px
 }
-img {
-    height: 200px;
-}
 
 .category-videos {
  display: flex; 
@@ -49,4 +46,9 @@ section {
 .category-videos img {
  opacity: 0.5; 
   
+}
+
+.category.videos img:hover {
+ opacity: 1.0; 
+ border: 1px solid red; 
 }
